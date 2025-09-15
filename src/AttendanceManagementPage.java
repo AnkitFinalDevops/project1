@@ -1,6 +1,7 @@
 import javax.swing.*;
 import java.awt.*;
 import java.sql.*;
+import java.*;
 
 class UpdateAttendancePage extends JFrame {
     JLabel studentIdLabel, nameLabel, attendanceLabel;
