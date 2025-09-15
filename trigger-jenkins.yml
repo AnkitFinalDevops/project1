@@ -3,7 +3,7 @@ name: Trigger Jenkins Job from GitHub
 on:
   push:
     branches:
-      - main  # Replace with your target branch
+      - main  
 
 jobs:
   trigger-jenkins:
